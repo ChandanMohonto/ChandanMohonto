@@ -9,8 +9,8 @@
 - 🧮All Projects are Available 👉[https://github.com/ChandanMohonto?tab=repositories](https://github.com/ChandanMohonto?tab=repositories)
 
 - 💬 Ask about **Software Testing**
-- <h3 align="center">📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:</h3>
-- <p align="center">
+ <h3 align="center">📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:</h3>
+ <p align="center">
 <a href="https://www.linkedin.com/in/chandan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-dev" height="30" width="40" /></a>
 
 
