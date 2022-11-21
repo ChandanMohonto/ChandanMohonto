@@ -9,3 +9,4 @@
 - 🧮All Projects are Available 👉[https://github.com/ChandanMohonto?tab=repositories](https://github.com/ChandanMohonto?tab=repositories)
 
 - 💬 Ask about **Software Testing**
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chandan-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/chondon.kumar.mahanta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/CK_Mahanta)  
