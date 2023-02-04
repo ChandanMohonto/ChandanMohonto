@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="270" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
-  ✍Currently Learning **Automation frameworks,CI/CD pipeline, DevOPs.**
+  ✍Currently Learning ** DevOps**
 
 - 🧮All Projects are Available 👉[https://github.com/ChandanMohonto?tab=repositories](https://github.com/ChandanMohonto?tab=repositories)
 
