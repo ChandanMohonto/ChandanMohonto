@@ -9,6 +9,7 @@
 - 🧮 All Projects are Available 👉 [GitHub Repositories](https://github.com/ChandanMohonto?tab=repositories)
 
 - 💬 Ask about *Quality Assurance (QA), Software Testing, DevOps, System Design, Fintech, ML*
+- Me at➡https://www.linkedin.com/in/chandan-dev
 
 ---
 
